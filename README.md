@@ -1,3 +1,5 @@
+[RobloxScriptExporter/RobloxScriptExporter.exe at main · abcwrlds/RobloxScriptExporter](https://github.com/abcwrlds/RobloxScriptExporter/blob/main/RobloxScriptExporter.exe)
+
 # Roblox Script Exporter GUI
 
 Simple Windows front-end for the Roblox script exporter written for [Lune](https://lune-org.github.io/docs/). Drag a place file into the window, point it at your Lune executable once, and it mirrors the CLI exporter while showing a live log.
